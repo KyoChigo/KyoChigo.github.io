@@ -13,5 +13,5 @@ Since my personal homepage has just been established, it still needs to be enric
 
 News
 ======
-* I gave an oral presentation at the 2025 Spring Meeting of the Japan Physical Society on March 21, 2025. The title of my presentation was "Development of Ocean Bottom Detector for Direct Measurement of Mantle Geoneutrinos 13: Assessment of Geoneutrino Flux Assuming Directional Sensitivity."
+* I gave an oral presentation at the Physical Society of Japan 2025 Spring Meeting on March 21, 2025. The title of my presentation was "Development of Ocean Bottom Detector for Direct Measurement of Mantle Geoneutrinos 13: Assessment of Geoneutrino Flux Assuming Directional Sensitivity."
 * I gave an poster presentation at the KamLAND Collaboration Meeting 2025 Spring on March 10-11, 2025. The title of my poster was "Geoneutrino Observations from the Ocean Floor: The Role of Directional Sensitivity."
